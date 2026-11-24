@@ -1,0 +1,6 @@
+{
+  "name": "Second Helpings Atlas — Procedural Town & Physical Map",
+  "description": "Deterministic procedural town generator and interactive physical map featuring tensor-field streets, planar block extraction, address numbering, household slots, and Dijkstra walking routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
